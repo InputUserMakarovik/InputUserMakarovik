@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Forever programming</strong> | Currently hunting new skills<img src="https://teammks.w3spaces.com/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966.gif" width="40px" />
+  🦄 <strong>Forever programming</strong><img src="https://teammks.w3spaces.com/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966.gif" width="40px" />
 </p>
 
 <p align="left">
