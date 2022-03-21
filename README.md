@@ -6,12 +6,12 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Forever programming</strong><img src="https://teammks.w3spaces.com/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966.gif" width="40px" />
+  🦄 <strong>Forever programming</strong>
 </p>
 
 <p align="left">
-  💼 <strong>Team MKs チム <img src="https://teammks.w3spaces.com/kyubey.gif" width="50px" /></strong><br>
-   💌 Watch animes and games <img src="https://teammks.w3spaces.com/external-content.duckduckgo.com-copy-1.gif" width="40px" /> 
+  💼 <strong>Team MKs チム </strong><br>
+   💌 Watch animes and games  
 </p>
 
 [![Gmail Badge](https://img.shields.io/badge/-inputusermakarovik@protonmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inputusermakarovik@protonmail.com)](mailto:inputusermakarovik@protonmail.com)
