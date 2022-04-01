@@ -15,17 +15,15 @@
 </p>
 
 [![Gmail Badge](http://teammakarovik.br-web.com/assets/githubimages/inputusermakarovik@protonmail.com.svg)](mailto:inputusermakarovik@protonmail.com)
-[![GitHub SEU NOME]()
-
 <h3> :rocket: &nbsp;【﻿Ｓｋｉｌｌｓ】
  </h3>
  <div align="center">
-  <div style="display: flex; padding-left: 5%;">
+  <div style="display: flex; margin: 50px;">
     <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/clanguage.png' alt='C'>
     <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/cplusplus.png' alt='C++'>
     <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/java.png' alt='Java'>
     <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/js.png' alt='JS'>
-    <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/git.png' alt='git'>
+    <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/git1.png' alt='git'>
     <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/html.png' alt='Html'>
     <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/css.png' alt='Css'>
     <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/react.png' alt='React'>
