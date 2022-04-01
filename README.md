@@ -18,7 +18,7 @@
 <h3> :rocket: &nbsp;【﻿Ｓｋｉｌｌｓ】
  </h3>
  <div align="center">
-  <div style="display: flex;"><p align='center'>
+  <div style="display: flex;">
     <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/clanguage.png' alt='C'>
     <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/cplusplus.png' alt='C++'>
     <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/java.png' alt='Java'>
@@ -29,10 +29,10 @@
     <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/react.png' alt='React'>
     <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/mysql.png' alt='MySQL'>
     <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/php.png' alt='PhP'>
-    </p>
+    
   </div>
  </div>
 <br/>
 <br/>
-<p align='center'></p>
+<p align='center'><img src="http://teammakarovik.br-web.com/assets/githubimages/loveyou.gif"></p>
 
