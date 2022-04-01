@@ -2,7 +2,7 @@
 <img src="http://teammakarovik.br-web.com/assets/githubimages/pc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador img">
 
 <p align="left"> 
-  CLI Development (Golang, Python), Programming script, Backend develop with Flask/NodeJS, SQL with Postgres/MySQL/MariaDB, DevOps with GitLab CI/GitHub Actions/Azure Devops.
+  CLI Development (Python), Programming script, Backend develop with PhP, SQL with MySQL/MariaDB, TypeScript, Full Stack Web Developer
 </p>
 
 <p align="left">
