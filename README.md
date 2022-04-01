@@ -11,7 +11,7 @@
 
 <p align="left">
   💼 <strong>Team MKs チム </strong><br>
-   💌 Watch animes and games  
+   💌 Code lover <3 
 </p>
 
 [![Gmail Badge](http://teammakarovik.br-web.com/assets/githubimages/inputusermakarovik@protonmail.com.svg)](mailto:inputusermakarovik@protonmail.com)
