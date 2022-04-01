@@ -19,10 +19,12 @@
 
 <h3> :rocket: &nbsp;【﻿Ｓｋｉｌｌｓ】
  </h3>
-  <img style='display:flex;' width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/clanguage.png'>
-  <img style='display:flex;' width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/clanguage.png'>
-  <img style='display:flex;' width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/clanguage.png'>
-  <img style='display:flex;' width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/clanguage.png'>
+ <div align="center">
+  <div style="display: flex;">
+    <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/clanguage.png'>
+    <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/clanguage.png'>
+  </div>
+ </div>
 
 <br/>
 <br/>
