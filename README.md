@@ -17,7 +17,7 @@
 [![Gmail Badge](http://teammakarovik.br-web.com/assets/githubimages/inputusermakarovik@protonmail.com.svg)](mailto:inputusermakarovik@protonmail.com)
 <h3> :rocket: &nbsp;【﻿Ｓｋｉｌｌｓ】
  </h3>
- <div align="center">
+ <div align="left">
   <div style="display: flex;">
     <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/clanguage.png' alt='C'>
     <img width='50px' src='http://teammakarovik.br-web.com/assets/githubimages/cplusplus.png' alt='C++'>
