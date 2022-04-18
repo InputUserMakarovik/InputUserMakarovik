@@ -1,4 +1,4 @@
-![header](https://teammakarovik.br-web.com/assets/githubimages/okamilogo.svg)
+
 <img src="http://teammakarovik.br-web.com/assets/githubimages/pc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador img">
 
 <p align="left"> 
