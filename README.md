@@ -2,7 +2,7 @@
 <img src="http://teammakarovik.br-web.com/assets/githubimages/pc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador img">
 
 <p align="left"> 
-  Backend development with PHP [Laravel, Zend, Phalcon] -  Proficiency with C & C++ - Proficient in MongoDB, MariaDB and SQLite - Proficient in Git
+  Backend development with PHP [Laravel, Zend, Phalcon] -  Proficiency in C & C++ - Proficient in MongoDB, MariaDB and SQLite - Proficient in Git
 </p>
 
 <p align="left">
