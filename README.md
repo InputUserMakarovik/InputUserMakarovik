@@ -1,5 +1,5 @@
 ![header](https://teammakarovik.br-web.com/assets/githubimages/okamilogo2.svg)
-<img src="http://teammakarovik.br-web.com/assets/githubimages/pc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador img">
+
 
 <p align="left"> 
   Backend development with PHP [Laravel, Zend, Phalcon] -  Proficiency in C & C++ - Proficient in MongoDB, MariaDB and SQLite - Proficient in Git
@@ -14,7 +14,7 @@
    💌 Code lover <3 
 </p>
 
-[![Gmail Badge](http://teammakarovik.br-web.com/assets/githubimages/inputusermakarovik@protonmail.com.svg)](mailto:inputusermakarovik@protonmail.com)
+
 <h3> :rocket: &nbsp;【﻿Ｓｋｉｌｌｓ】
  </h3>
  <div align="left">
@@ -34,5 +34,5 @@
  </div>
 <br/>
 <br/>
-<p align='center'><img src="http://teammakarovik.br-web.com/assets/githubimages/loveyou.gif"></p>
+
 
