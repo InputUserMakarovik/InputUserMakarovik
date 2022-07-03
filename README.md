@@ -2,7 +2,8 @@
 
 
 <p align="left"> 
-  Backend development with PHP [Laravel, Zend, Phalcon] -  Proficiency in C & C++ - Proficient in MongoDB, MariaDB and SQLite - Proficient in Git
+  Backend development with PHP [Laravel, Zend, Phalcon] - Proficient in MongoDB, MariaDB and SQLite - Proficient in Git
+  Js -> node | react
 </p>
 
 <p align="left">
